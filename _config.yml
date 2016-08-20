@@ -1,0 +1,14 @@
+layout_spectrum: 0.7759857
+color:
+  saturation: 0.8483361
+  lightness: 0.9922532
+  brandStrength: 0.06633633
+  brandColors:
+    - '#E3D7C7'
+    - '#B2A38C'
+    - '#403931'
+    - '#1F1B17'
+    - '#897C69'
+  rhythmicContrast: 0.5271663
+typography_spectrum: 0.4784946
+name: Len's Journal
