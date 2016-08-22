@@ -1,14 +1,26 @@
-layout_spectrum: 0.7759857
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4784946
 color:
   saturation: 0.8483361
-  lightness: 0.9922532
   brandStrength: 0.06633633
+  rhythmicContrast: 0.5271663
   brandColors:
     - '#E3D7C7'
     - '#B2A38C'
     - '#403931'
     - '#1F1B17'
     - '#897C69'
-  rhythmicContrast: 0.5271663
-typography_spectrum: 0.4784946
+  lightness: 0.9922532
+layout_spectrum: 0.7992831
 name: Len's Journal
